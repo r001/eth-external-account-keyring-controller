@@ -1,0 +1,24 @@
+{
+  "name": "eth-external-account-keyring-controller",
+  "version": "1.0.0",
+  "description": "Exposes eth-external-account-keyring data to MetamaskController",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/r001/eth-external-account-keyring-controller.git"
+  },
+  "keywords": [
+    "ethereum",
+    "keyring",
+    "cotroller"
+  ],
+  "author": "Robert Horvath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r001/eth-external-account-keyring-controller/issues"
+  },
+  "homepage": "https://github.com/r001/eth-external-account-keyring-controller#readme"
+}
